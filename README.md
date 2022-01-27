@@ -1,4 +1,6 @@
-# commonwebcam
+# Common Webcam for Vue
+
+## Usage
 
 ```html
 <common-web-cam ref="webcam"
